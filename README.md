@@ -1,92 +1,99 @@
-# ml-surveys
-
-It's hard to keep up with the latest and greatest in machine learning. Here's a selection of **survey papers summarizing the advances in the field**.
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-
-Figuring out how to implement your ML project? Learn how other organizations did it 👉[`applied-ml`](https://github.com/eugeneyan/applied-ml)
-
-**Table of Contents**
-
-- [Recommendation](#recommendation)
-- [Deep Learning](#deep-learning)
-- [Natural Language Processing](#natural-language-processing)
-- [Computer Vision](#computer-vision)
-- [Vision and Language](#vision-and-language)
-- [Reinforcement Learning](#reinforcement-learning)
-- [Graph](#graph)
-- [Embeddings](#embeddings)
-- [Meta-learning and Few-shot Learning](#meta-learning-and-few-shot-Learning)
-- [Others](#others)
-
-## Recommendation
-- Algorithms: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
-- Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives (2019)](https://arxiv.org/pdf/1707.07435.pdf)
-- Algorithms: [Are We Really Making Progress? An Analysis of Neural Recommendation Approaches (2019)](https://arxiv.org/pdf/1907.06902.pdf)
-- Serendipity: [A Survey of Serendipity in Recommender Systems (2016)](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
-- Diversity: [Diversity in Recommender Systems – A survey (2017)](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
-- Explanations: [A Survey of Explanations in Recommender Systems (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
-
-## Deep Learning
-- Architecture: [A State-of-the-Art Survey on Deep Learning Theory and Architectures (2019)](https://www.mdpi.com/2079-9292/8/3/292/htm)
-- Knowledge distillation: [Knowledge Distillation: A Survey (2021)](https://arxiv.org/pdf/2006.05525.pdf)
-- Model compression: [Compression of Deep Learning Models for Text: A Survey (2020)](https://arxiv.org/pdf/2008.05221.pdf)
-- Transfer learning: [A Survey on Deep Transfer Learning (2018)](https://arxiv.org/pdf/1808.01974.pdf)
-- Neural architecture search: [A Comprehensive Survey of Neural Architecture Search (2021)](https://arxiv.org/abs/2006.02903)
-- Neural architecture search: [Neural Architecture Search: A Survey (2019)](https://arxiv.org/abs/1808.05377)
-
-## Natural Language Processing
-- Deep Learning: [Recent Trends in Deep Learning Based Natural Language Processing (2018)](https://arxiv.org/pdf/1708.02709.pdf)
-- Classification: [Deep Learning Based Text Classification: A Comprehensive Review (2021)](https://arxiv.org/pdf/2004.03705)
-- Generation: [Survey of the SOTA in Natural Language Generation: Core tasks, applications and evaluation (2018)](https://www.jair.org/index.php/jair/article/view/11173/26378)
-- Generation: [Neural Language Generation: Formulation, Methods, and Evaluation (2020)](https://arxiv.org/pdf/2007.15780.pdf)
-- Transfer learning: [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer (2020)](https://arxiv.org/abs/1910.10683)
-- Transformers: [Efficient Transformers: A Survey (2020)](https://arxiv.org/pdf/2009.06732.pdf)
-- Metrics: [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (2020)](https://arxiv.org/pdf/2005.04118.pdf)
-- Metrics: [Evaluation of Text Generation: A Survey (2020)](https://arxiv.org/pdf/2006.14799.pdf)
-
-## Computer Vision
-- Object detection: [Object Detection in 20 Years (2019)](https://arxiv.org/pdf/1905.05055.pdf)
-- Adversarial attacks: [Threat of Adversarial Attacks on Deep Learning in Computer Vision (2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
-- Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and SOTA (2021)](https://arxiv.org/pdf/1704.05519.pdf)
-- Image Captioning: [A Comprehensive Survey of Deep Learning for Image Captioning (2018)](https://arxiv.org/pdf/1810.04020.pdf)
-- Instance Segmentation: [A Survey on Instance Segmentation: State of the art](https://arxiv.org/abs/2007.00047)
-- Vision Transformer: [A Survey on Vision Transformer](https://arxiv.org/abs/2012.12556)
-- Architectures: [Review of deep learning: concepts, CNN architectures, challenges, applications, future directions](https://link.springer.com/article/10.1186/s40537-021-00444-8)
-- Transformers: [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
-
-## Vision and Language
-
-- Trends: [Trends in Integration of Vision and Language Research: Tasks, Datasets, and Methods (2021)](https://doi.org/10.1613/jair.1.11688) 
-- Trends: [Multimodal Research in Vision and Language: Current and Emerging Trends (2020)](https://arxiv.org/abs/2010.09522) 
-
-## Reinforcement Learning
-- Algorithms: [A Brief Survey of Deep Reinforcement Learning (2017)](https://arxiv.org/pdf/1708.05866.pdf)
-- Transfer learning: [Transfer Learning for Reinforcement Learning Domains (2009)](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
-- Economics: [Review of Deep Reinforcement Learning Methods and Applications in Economics (2020)](https://arxiv.org/pdf/2004.01509.pdf)
-- Discovery: [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising (2018)](https://arxiv.org/pdf/1812.07127.pdf)
-
-## Graph
-- Survey: [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
-- Survey: [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
-- Fraud detection: [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
-- Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs (2021)](https://arxiv.org/pdf/2003.02320.pdf)
-
-## Embeddings
-- Text: [From Word to Sense Embeddings:A Survey on Vector Representations of Meaning (2018)](https://www.jair.org/index.php/jair/article/view/11259/26454)
-- Text: [Diachronic Word Embeddings and Semantic Shifts (2018)](https://arxiv.org/pdf/1806.03537.pdf)
-- Text: [Word Embeddings: A Survey (2019)](https://arxiv.org/abs/1901.09069)
-- Text: [A Reproducible Survey on Word Embeddings and Ontology-based Methods for Word Similarity (2019)](https://doi.org/10.1016/j.engappai.2019.07.010)
-- Graph: [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications (2017)](https://arxiv.org/pdf/1709.07604)
-
-## Meta-learning and Few-shot Learning
-- NLP: [Meta-learning for Few-shot Natural Language Processing: A Survey (2020)](https://arxiv.org/abs/2007.09604)
-- Domain Agnostic: [Learning from Few Samples: A Survey (2020)](https://arxiv.org/abs/2007.15484)
-- Neural Networks: [Meta-Learning in Neural Networks: A Survey (2020)](https://arxiv.org/abs/2004.05439)
-- Domain Agnostic: [A Comprehensive Overview and Survey of Recent Advances in Meta-Learning (2020)](https://arxiv.org/abs/2004.11149)
-- Domain Agnostic: [Baby steps towards few-shot learning with multiple semantics (2020)](https://arxiv.org/abs/1906.01905)
-- Domain Agnostic: [Meta-Learning: A Survey (2018)](https://arxiv.org/abs/1810.03548)
-- Domain Agnostic: [A Perspective View And Survey Of Meta-learning (2002)](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning)
-
-## Others
-- Transfer learning: [A Survey on Transfer Learning (2009)](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="7666152" _msthash="193">ML 调查</h1><a id="user-content-ml-surveys" class="anchor" aria-label="永久链接： ml-surveys" href="#ml-surveys" _mstaria-label="446615" _msthash="194"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="330247086" _msthash="195">很难跟上机器学习的最新和最强大的技术。以下是<strong _istranslated="1">总结该领域进展的精选调查论文</strong>。</p>
+<p dir="auto"><a href="/eugeneyan/ml-surveys/blob/main/CONTRIBUTING.md"><img src="https://camo.githubusercontent.com/a93286920599112849c7c2af9d239294be27738b440248e434813b1bd0ffb368/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174" alt="欢迎贡献" data-canonical-src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" style="max-width: 100%;" _mstalt="465374" _msthash="196"></a></p>
+<p dir="auto" _msttexthash="198659591" _msthash="197">弄清楚如何实现您的 ML 项目？了解其他组织如何应用 👉<a href="https://github.com/eugeneyan/applied-ml" _istranslated="1"><code _istranslated="1">ML</code></a></p>
+<p dir="auto"><strong _msttexthash="5308706" _msthash="198">目录</strong></p>
+<ul dir="auto">
+<li><a href="#recommendation" _msttexthash="5931406" _msthash="199">建议</a></li>
+<li><a href="#deep-learning" _msttexthash="10427001" _msthash="200">深度学习</a></li>
+<li><a href="#natural-language-processing" _msttexthash="22716499" _msthash="201">自然语言处理</a></li>
+<li><a href="#computer-vision" _msttexthash="19264232" _msthash="202">计算机视觉</a></li>
+<li><a href="#vision-and-language" _msttexthash="17233619" _msthash="203">愿景和语言</a></li>
+<li><a href="#reinforcement-learning" _msttexthash="9776364" _msthash="204">强化学习</a></li>
+<li><a href="#graph" _msttexthash="2026570" _msthash="205">图</a></li>
+<li><a href="#embeddings" _msttexthash="4340492" _msthash="206">嵌入</a></li>
+<li><a href="#meta-learning-and-few-shot-Learning" _msttexthash="29654222" _msthash="207">元学习和小样本学习</a></li>
+<li><a href="#others" _msttexthash="4010201" _msthash="208">别人</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5931406" _msthash="209">建议</h2><a id="user-content-recommendation" class="anchor" aria-label="永久链接： 推荐" href="#recommendation" _mstaria-label="596193" _msthash="210"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="75182601" _msthash="211">算法：<a href="http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf" rel="nofollow" _istranslated="1">推荐系统调查 （2013）</a></li>
+<li _msttexthash="199445363" _msthash="212">算法：<a href="https://arxiv.org/pdf/1707.07435.pdf" rel="nofollow" _istranslated="1">基于深度学习的推荐系统：调查和新视角 （2019）</a></li>
+<li _msttexthash="181568439" _msthash="213">算法：<a href="https://arxiv.org/pdf/1907.06902.pdf" rel="nofollow" _istranslated="1">我们真的在进步吗？神经推荐方法分析 （2019）</a></li>
+<li _msttexthash="162863207" _msthash="214">Serendipity：<a href="https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems" rel="nofollow" _istranslated="1">推荐系统中的 Serendipity 调查 （2016）</a></li>
+<li _msttexthash="149844981" _msthash="215">多样性：<a href="https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf" rel="nofollow" _istranslated="1">推荐系统的多样性 – 一项调查（2017 年）</a></li>
+<li _msttexthash="111696754" _msthash="216">解释：<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&amp;rep=rep1&amp;type=pdf" rel="nofollow" _istranslated="1">推荐系统中的解释调查 （2007）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10427001" _msthash="217">深度学习</h2><a id="user-content-deep-learning" class="anchor" aria-label="永久链接：深度学习" href="#deep-learning" _mstaria-label="500981" _msthash="218"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="151208915" _msthash="219">建筑学：<a href="https://www.mdpi.com/2079-9292/8/3/292/htm" rel="nofollow" _istranslated="1">深度学习理论和架构的最新调查 （2019）</a></li>
+<li _msttexthash="126558185" _msthash="220">知识提炼：<a href="https://arxiv.org/pdf/2006.05525.pdf" rel="nofollow" _istranslated="1">知识提炼：一项调查 （2021）</a></li>
+<li _msttexthash="195216931" _msthash="221">模型压缩：<a href="https://arxiv.org/pdf/2008.05221.pdf" rel="nofollow" _istranslated="1">文本深度学习模型的压缩：一项调查 （2020）</a></li>
+<li _msttexthash="105064635" _msthash="222">迁移学习：<a href="https://arxiv.org/pdf/1808.01974.pdf" rel="nofollow" _istranslated="1">深度迁移学习调查 （2018）</a></li>
+<li _msttexthash="148980481" _msthash="223">神经架构搜索：<a href="https://arxiv.org/abs/2006.02903" rel="nofollow" _istranslated="1">神经架构搜索全面调查 （2021）</a></li>
+<li _msttexthash="147452487" _msthash="224">神经架构搜索：<a href="https://arxiv.org/abs/1808.05377" rel="nofollow" _istranslated="1">神经架构搜索：调查 （2019）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="22716499" _msthash="225">自然语言处理</h2><a id="user-content-natural-language-processing" class="anchor" aria-label="永久链接：自然语言处理" href="#natural-language-processing" _mstaria-label="1126489" _msthash="226"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="208979485" _msthash="227">深度学习：<a href="https://arxiv.org/pdf/1708.02709.pdf" rel="nofollow" _istranslated="1">基于深度学习的自然语言处理的最新趋势 （2018）</a></li>
+<li _msttexthash="171831166" _msthash="228">分类： <a href="https://arxiv.org/pdf/2004.03705" rel="nofollow" _istranslated="1">基于深度学习的文本分类：综合评论 （2021）</a></li>
+<li _msttexthash="247869362" _msthash="229">生成：<a href="https://www.jair.org/index.php/jair/article/view/11173/26378" rel="nofollow" _istranslated="1">自然语言生成中的 SOTA 调查：核心任务、应用和评估 （2018）</a></li>
+<li _msttexthash="154833354" _msthash="230">生成：<a href="https://arxiv.org/pdf/2007.15780.pdf" rel="nofollow" _istranslated="1">神经语言生成：公式、方法和评估 （2020）</a></li>
+<li _msttexthash="248697501" _msthash="231">迁移学习：<a href="https://arxiv.org/abs/1910.10683" rel="nofollow" _istranslated="1">使用 T5 探索迁移学习：文本到文本迁移转换器 （2020）</a></li>
+<li _msttexthash="101081539" _msthash="232">变压器：<a href="https://arxiv.org/pdf/2009.06732.pdf" rel="nofollow" _istranslated="1">高效变压器：调查 （2020）</a></li>
+<li _msttexthash="246205089" _msthash="233">指标：<a href="https://arxiv.org/pdf/2005.04118.pdf" rel="nofollow" _istranslated="1">超越准确性：使用 CheckList 对 NLP 模型进行行为测试 （2020）</a></li>
+<li _msttexthash="122107934" _msthash="234">指标：<a href="https://arxiv.org/pdf/2006.14799.pdf" rel="nofollow" _istranslated="1">文本生成评估：一项调查 （2020）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="19264232" _msthash="235">计算机视觉</h2><a id="user-content-computer-vision" class="anchor" aria-label="永久链接：计算机视觉" href="#computer-vision" _mstaria-label="601185" _msthash="236"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="96605327" _msthash="237">对象检测：<a href="https://arxiv.org/pdf/1905.05055.pdf" rel="nofollow" _istranslated="1">20 年的对象检测 （2019）</a></li>
+<li _msttexthash="229478392" _msthash="238">对抗性攻击：<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186" rel="nofollow" _istranslated="1">对抗性攻击对计算机视觉中深度学习的威胁 （2018）</a></li>
+<li _msttexthash="318991816" _msthash="239">自动驾驶汽车：<a href="https://arxiv.org/pdf/1704.05519.pdf" rel="nofollow" _istranslated="1">自动驾驶汽车的计算机视觉：问题、数据集和 SOTA（2021 年）</a></li>
+<li _msttexthash="147397562" _msthash="240">图像字幕：<a href="https://arxiv.org/pdf/1810.04020.pdf" rel="nofollow" _istranslated="1">图像字幕深度学习的全面调查 （2018）</a></li>
+<li _msttexthash="90163606" _msthash="241">实例分割：<a href="https://arxiv.org/abs/2007.00047" rel="nofollow" _istranslated="1">实例分割调查：最新技术</a></li>
+<li _msttexthash="55944759" _msthash="242">Vision Transformer：<a href="https://arxiv.org/abs/2012.12556" rel="nofollow" _istranslated="1">Vision Transformer 调查</a></li>
+<li _msttexthash="178515805" _msthash="243">架构：<a href="https://link.springer.com/article/10.1186/s40537-021-00444-8" rel="nofollow" _istranslated="1">深度学习回顾：概念、CNN 架构、挑战、应用、未来方向</a></li>
+<li _msttexthash="103271870" _msthash="244">变形金刚：<a href="https://arxiv.org/abs/2101.01169" rel="nofollow" _istranslated="1">Transformers in Vision：一项调查</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="17233619" _msthash="245">愿景和语言</h2><a id="user-content-vision-and-language" class="anchor" aria-label="永久链接：视觉和语言" href="#vision-and-language" _mstaria-label="713076" _msthash="246"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="252110885" _msthash="247">趋势：<a href="https://doi.org/10.1613/jair.1.11688" rel="nofollow" _istranslated="1">视觉与语言研究整合的趋势：任务、数据集和方法（2021 年）</a></li>
+<li _msttexthash="215675889" _msthash="248">趋势：<a href="https://arxiv.org/abs/2010.09522" rel="nofollow" _istranslated="1">视觉和语言的多模态研究：当前和新兴趋势（2020 年）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9776364" _msthash="249">强化学习</h2><a id="user-content-reinforcement-learning" class="anchor" aria-label="永久链接： 强化学习" href="#reinforcement-learning" _mstaria-label="913471" _msthash="250"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="103675013" _msthash="251">算法：<a href="https://arxiv.org/pdf/1708.05866.pdf" rel="nofollow" _istranslated="1">深度强化学习简要调查 （2017）</a></li>
+<li _msttexthash="129730744" _msthash="252">迁移学习：<a href="http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf" rel="nofollow" _istranslated="1">强化学习领域的迁移学习 （2009）</a></li>
+<li _msttexthash="215412808" _msthash="253">经济学：<a href="https://arxiv.org/pdf/2004.01509.pdf" rel="nofollow" _istranslated="1">深度强化学习方法及其在经济学中的应用综述 （2020）</a></li>
+<li _msttexthash="182097643" _msthash="254">发现：<a href="https://arxiv.org/pdf/1812.07127.pdf" rel="nofollow" _istranslated="1">用于搜索、推荐和在线广告的深度强化学习 （2018）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="2026570" _msthash="255">图</h2><a id="user-content-graph" class="anchor" aria-label="永久链接：图表" href="#graph" _mstaria-label="270543" _msthash="256"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="99001812" _msthash="257">调查：<a href="https://arxiv.org/pdf/1901.00596.pdf" rel="nofollow" _istranslated="1">图神经网络综合调查 （2019）</a></li>
+<li _msttexthash="95447677" _msthash="258">调查：<a href="https://arxiv.org/pdf/2010.05234.pdf" rel="nofollow" _istranslated="1">图神经网络实用指南 （2020）</a></li>
+<li _msttexthash="214085677" _msthash="259">欺诈检测：<a href="https://www.sciencedirect.com/science/article/pii/S0167923620300580" rel="nofollow" _istranslated="1">基于图形的异常检测方法的系统文献综述 （2020）</a></li>
+<li _msttexthash="108899726" _msthash="260">知识图谱：<a href="https://arxiv.org/pdf/2003.02320.pdf" rel="nofollow" _istranslated="1">知识图谱全面介绍 （2021）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4340492" _msthash="261">嵌入</h2><a id="user-content-embeddings" class="anchor" aria-label="永久链接：嵌入" href="#embeddings" _mstaria-label="431886" _msthash="262"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="169143754" _msthash="263">文本：<a href="https://www.jair.org/index.php/jair/article/view/11259/26454" rel="nofollow" _istranslated="1">从词到意义嵌入：意义向量表示调查 （2018）</a></li>
+<li _msttexthash="101906324" _msthash="264">文本：<a href="https://arxiv.org/pdf/1806.03537.pdf" rel="nofollow" _istranslated="1">历时词嵌入和语义转换 （2018）</a></li>
+<li _msttexthash="102488087" _msthash="265">文本：<a href="https://arxiv.org/abs/1901.09069" rel="nofollow" _istranslated="1">单词嵌入：一项调查 （2019）</a></li>
+<li _msttexthash="266127498" _msthash="266">文本：<a href="https://doi.org/10.1016/j.engappai.2019.07.010" rel="nofollow" _istranslated="1">关于单词嵌入和基于本体的单词相似性方法的可重复调查 （2019）</a></li>
+<li _msttexthash="168261860" _msthash="267">图：<a href="https://arxiv.org/pdf/1709.07604" rel="nofollow" _istranslated="1">图嵌入的全面调查：问题、技术和应用 （2017）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="29654222" _msthash="268">元学习和小样本学习</h2><a id="user-content-meta-learning-and-few-shot-learning" class="anchor" aria-label="永久链接：元学习和小样本学习" href="#meta-learning-and-few-shot-learning" _mstaria-label="1505452" _msthash="269"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="239404048" _msthash="270">NLP：<a href="https://arxiv.org/abs/2007.09604" rel="nofollow" _istranslated="1">用于小样本自然语言处理的元学习：一项调查（2020 年）</a></li>
+<li _msttexthash="181759604" _msthash="271">域不可知论者：<a href="https://arxiv.org/abs/2007.15484" rel="nofollow" _istranslated="1">从少数样本中学习：一项调查 （2020）</a></li>
+<li _msttexthash="176395843" _msthash="272">神经网络：<a href="https://arxiv.org/abs/2004.05439" rel="nofollow" _istranslated="1">神经网络中的元学习：一项调查 （2020）</a></li>
+<li _msttexthash="201075108" _msthash="273">领域不可知论：<a href="https://arxiv.org/abs/2004.11149" rel="nofollow" _istranslated="1">元学习最新进展的全面概述和调查 （2020）</a></li>
+<li _msttexthash="258966032" _msthash="274">领域不可知论者：<a href="https://arxiv.org/abs/1906.01905" rel="nofollow" _istranslated="1">迈向具有多种语义的小样本学习的婴儿步骤 （2020）</a></li>
+<li _msttexthash="142882701" _msthash="275">领域不可知论者：<a href="https://arxiv.org/abs/1810.03548" rel="nofollow" _istranslated="1">元学习：一项调查 （2018）</a></li>
+<li _msttexthash="169784433" _msthash="276">领域不可知论者：<a href="https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning" rel="nofollow" _istranslated="1">元学习的透视观点和调查 （2002）</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4010201" _msthash="277">别人</h2><a id="user-content-others" class="anchor" aria-label="永久链接：其他" href="#others" _mstaria-label="307268" _msthash="278"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="88656698" _msthash="279">迁移学习：<a href="https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf" rel="nofollow" _istranslated="1">迁移学习调查 （2009）</a></li>
+</ul>
+</article></div>
